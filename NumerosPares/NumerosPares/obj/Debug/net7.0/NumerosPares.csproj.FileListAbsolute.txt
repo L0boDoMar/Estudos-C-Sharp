@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.AssemblyInfo.cs
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\bin\Debug\net7.0\NumerosPares.exe
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\bin\Debug\net7.0\NumerosPares.deps.json
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\bin\Debug\net7.0\NumerosPares.runtimeconfig.json
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\bin\Debug\net7.0\NumerosPares.dll
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\bin\Debug\net7.0\NumerosPares.pdb
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.dll
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\refint\NumerosPares.dll
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.pdb
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\NumerosPares.genruntimeconfig.cache
+C:\Users\andre\source\repos\NumerosPares\NumerosPares\obj\Debug\net7.0\ref\NumerosPares.dll
