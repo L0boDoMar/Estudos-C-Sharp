@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj": {}
+    "C:\\Users\\andre\\source\\repos\\Curso Alura - Aplicando a Orientacao a Objetos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj": {
+    "C:\\Users\\andre\\source\\repos\\Curso Alura - Aplicando a Orientacao a Objetos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Curso Alura - Aplicando a Orientacao a Objetos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
         "projectName": "EstoqueDeProdutos",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\Curso Alura - Aplicando a Orientacao a Objetos\\EstoqueDeProdutos\\EstoqueDeProdutos\\EstoqueDeProdutos.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\EstoqueDeProdutos\\EstoqueDeProdutos\\obj\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\Curso Alura - Aplicando a Orientacao a Objetos\\EstoqueDeProdutos\\EstoqueDeProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

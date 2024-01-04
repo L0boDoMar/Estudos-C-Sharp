@@ -12,3 +12,17 @@ C:\Users\andre\source\repos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\refint\
 C:\Users\andre\source\repos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
 C:\Users\andre\source\repos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
 C:\Users\andre\source\repos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\andre\source\repos\Curso Alura - Aplicando a Orientacao a Objetos\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll
