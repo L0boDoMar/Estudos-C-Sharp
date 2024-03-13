@@ -7,8 +7,14 @@ class Musica
         - Atributos começam com maiúscula 
     */
 
-    public string Nome { get; set; }
-    public string Artista { get; set; }
+    public Musica(Banda artista, string nome)
+    {
+        Artista = artista;
+        Nome = nome;
+    }
+
+    public string Nome { get;}
+    public Banda Artista { get;}
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
     //Lambda - operação de somente leitura
@@ -18,8 +24,8 @@ class Musica
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
-        Console.WriteLine($"Artista: {Artista}");
-        Console.WriteLine($"Artista: {Duracao}");
+        Console.WriteLine($"Artista: {Artista.Nome}");
+        Console.WriteLine($"Duração: {Duracao}");
         if (Disponivel)
         {
             Console.WriteLine("Disponível no plano\n");
