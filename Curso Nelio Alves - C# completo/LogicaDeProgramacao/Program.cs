@@ -12,4 +12,6 @@ e.LerDados();
 e.LerDadosComEspaço();
 */
 
-OperadoresComparativos.AulaOperadoresComparativos();
+//OperadoresComparativos.AulaOperadoresComparativos();
+//OperadoresLogicos.AulaOperadoresLogicos();
+EstruturaCondicional.AulaEstruturaCondicional();
