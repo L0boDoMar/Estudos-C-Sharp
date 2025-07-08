@@ -1,27 +1,27 @@
 ﻿using LogicaDeProgramacao.Conteudos;
 
-//TiposDeDados.AulaTiposDeDados();
+TiposDeDados.AulaTiposDeDados();
 
-//OperadoresAtribuicao.AulaOperadoresAtribuicao();
+OperadoresAtribuicao.AulaOperadoresAtribuicao();
 
-//ConvercaoECasting.AulaConvercaoECasting();
+ConvercaoECasting.AulaConvercaoECasting();
 
-//OperadoresAritmeticos.AulaOperadoresAritmeticos();
+OperadoresAritmeticos.AulaOperadoresAritmeticos();
 
-/*
+
 EntradaDeDados e = new EntradaDeDados();
 e.LerUmDado();
 e.LerDados();
 e.LerDadosComEspaço();
-*/
 
-//OperadoresComparativos.AulaOperadoresComparativos();
 
-//OperadoresLogicos.AulaOperadoresLogicos();
+OperadoresComparativos.AulaOperadoresComparativos();
 
-//EstruturaCondicional.AulaEstruturaCondicional();
+OperadoresLogicos.AulaOperadoresLogicos();
 
-/*
+EstruturaCondicional.AulaEstruturaCondicional();
+
+
 Funcoes funcoes = new Funcoes();
 List<int> numeros = new List<int>(); //listas são dinamicas, ou seja, o tamanho pode aumentar != dos vetores
 int num = 1;
@@ -33,7 +33,7 @@ while (num != 0)
 }
 
 funcoes.ExibirMaiorNumero(numeros);
-*/
+
 
 
 EstruturasDeRepeticao estruturasDeRepeticao = new EstruturasDeRepeticao();

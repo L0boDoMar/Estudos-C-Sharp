@@ -16,7 +16,7 @@ public class EstruturasDeRepeticao
         while (num >= 0)
         {
             double raiz = Math.Sqrt(num);
-            Console.WriteLine($"A raíz do número é {raiz.ToString("F3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"A raíz do número {num} é {raiz.ToString("F3", CultureInfo.InvariantCulture)}");
 
             Console.Write("Digite outro número: ");
             num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
